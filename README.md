@@ -1,5 +1,3 @@
-# Retail-Sales-Analysis-using-SQL
-
 # Retail Sales Analysis Using SQL
 
 ## Project Overview
